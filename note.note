@@ -1,0 +1,9 @@
+1. create indx.html
+2.terminal a geye > npm init -p < then package.json install hbe
+3.tailwindcss website a geye install er command gula terminal aopen korbo  under show taht command
+4.  > npm install -D tailwindcss postcss autoprefixer
+     > npx tailwindcss init -p
+
+ 5.file gula github a  rakar jnno .gitignore name a akta file create korbo    
+ 6.j file gula github a patabona like  node_module ,seta just gitignore er vtr store korbo
+ 7.git a dakte > git init >git statushhhhhhhhhhhhhhhhhhhh
