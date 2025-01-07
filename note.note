@@ -7,3 +7,10 @@
  5.file gula github a  rakar jnno .gitignore name a akta file create korbo    
  6.j file gula github a patabona like  node_module ,seta just gitignore er vtr store korbo
  7.git a dakte > git init >git statas 
+
+ 10. <p>this is second commit 
+            if you want to add new ,then follow under this command
+            git  add . 
+            git commit -m "any messsag"
+            git push >
+          </p>
